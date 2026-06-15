@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_device_mainline_generic",
+    "target_path": "device/mainline/generic"
+  },
+  {
+    "repository": "android_bootable_aaropa",
+    "target_path": "bootable/aaropa"
+  },
+  {
+    "repository": "android_hardware_intel_sensors-iio",
+    "target_path": "hardware/intel/sensors-iio"
+  }
+]
